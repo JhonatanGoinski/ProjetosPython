@@ -1,0 +1,4 @@
+Frase aula 1 - Estou aprendendo python do jeito certo
+Frase aula 2 - Estou vivendo a minha melhor experiência de aprendizado
+Frase aula 3 - Eu quero ser expert em python  
+Frase aula 4 - Eu quero ser o profissional do futuro com python. 
